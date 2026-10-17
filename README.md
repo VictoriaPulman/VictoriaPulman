@@ -1,5 +1,36 @@
 ## Hi there 👋
 
+# Hi! I'm an Aspiring Data Analyst 📊
+
+I am actively diving into the world of data: learning to bring order to chaos, uncover logic and hidden insights, and transform raw numbers into clear visual stories. 
+
+I enjoy optimizing routine processes — for instance, I automated the virtual environment deployment and setup process in Python for my learning projects to streamline my workflow.
+
+---
+
+### 🛠 Tech Stack & Tools:
+* **Python:** Basic programming, solid understanding of algorithmic logic and data structures.
+* **Data Libraries:** `Pandas` (data manipulation, filtering, grouping), `Matplotlib` & `Seaborn` (data visualization and chart customization).
+* **SQL:** Writing basic queries, table relations (`JOIN`), nested queries, and understanding the principles of window functions.
+* **Excel & Google Sheets:** Data analysis, dashboard creation, pivot tables, and charting.
+* **BI Tools:** Basic introduction to the Power BI ecosystem via Excel, eager to master full-scale BI platforms in practice.
+
+---
+
+### 🚀 About Me:
+* 🔭 **Currently working on:** Finishing up my Python for Data Analysis studies and actively practicing SQL database management.
+* 🌱 **Currently learning:** Product and BI analytics methodologies, data visualization fundamentals, and discovering business insights.
+* 👯 **Looking to collaborate on:** Team learning projects or early-stage startups with no strict commercial experience requirements, where I can help structure data and build clear reports.
+* 💬 **Ask me about:** How to automate routine environment setup using the terminal and simple scripts before starting a project. Check out my [cheat-sheet repository](https://github.com/VictoriaPulman/my-python-template).
+* ⚡ **Fun fact:** My chief and most experienced QA engineer is a 12-year-old Yorkshire Terrier named Bonita. She quality-checks every single line of code!
+
+---
+
+### 📫 How to reach me:
+* **Email:** [pulmanvictoria@gmail.com]
+* **LinkedIn:** [Victoria Pulman](https://www.linkedin.com/in/victoria-pulman-507840236/)
+
+
 # Привет! Я начинающий Аналитик Данных 📊
 
 Я нахожусь в процессе активного погружения в мир данных: учусь наводить в них порядок, искать логику, скрытые смыслы и превращать сухие цифры в понятные визуальные истории. 
