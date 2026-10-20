@@ -31,7 +31,7 @@ I enjoy optimizing routine processes — for instance, I automated the virtual e
 * **LinkedIn:** [Victoria Pulman](https://www.linkedin.com/in/victoria-pulman-507840236/)
 
 <details>
-  <summary>▶ Нажмите, чтобы развернуть текст</summary>
+  <summary>▶ Нажмите, чтобы посмотреть перевод</summary>
 
 
 
