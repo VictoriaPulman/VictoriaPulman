@@ -30,6 +30,10 @@ I enjoy optimizing routine processes — for instance, I automated the virtual e
 * **Email:** [pulmanvictoria@gmail.com]
 * **LinkedIn:** [Victoria Pulman](https://www.linkedin.com/in/victoria-pulman-507840236/)
 
+<details>
+  <summary>▶ Нажмите, чтобы развернуть текст</summary>
+
+
 
 # Привет! Я начинающий Аналитик Данных 📊
 
@@ -60,7 +64,7 @@ I enjoy optimizing routine processes — for instance, I automated the virtual e
 ### 📫 Как со мной связаться:
 * **Email:** [pulmanvictoria@gmail.com]
 * **Хабр Карьера:** [Ссылка на профиль](https://career.habr.com/vikapulman)
-
+</details>
 
 <!--
 **VictoriaPulman/VictoriaPulman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
