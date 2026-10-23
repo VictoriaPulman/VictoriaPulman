@@ -17,7 +17,7 @@
 
 ---
 ### 🛠 Tech Stack & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://victoriapulman.github.io/PYzadachki/)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 * **Python:** Basic programming, solid understanding of algorithmic logic and data structures.
