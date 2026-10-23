@@ -6,7 +6,7 @@
       <p>I enjoy optimizing routine processes — for instance, I automated the virtual environment deployment and setup process in Python for my learning projects to streamline my workflow.</p>
     </td>
     <td width="40%" align="center" valign="top">
-      <img width="250" height="250" alt="sticker" src="https://github.com/user-attachments/assets/e3e5cf42-2db2-4acd-85e2-dca13d9eb7fd" />
+      <img width="250" height="250" alt="sticker (2)" src="https://github.com/user-attachments/assets/fe43999b-cd99-49af-a2d6-aac0796af549" />
       <p><sub>👶 Throwback to my childhood </sub></p>
     </td>
   </tr>
