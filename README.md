@@ -14,6 +14,7 @@
 
 [<img width="87" height="28" alt="Gmail-D14836" src="https://github.com/user-attachments/assets/8934a264-0168-4660-857b-97a13ea0f03f" />](mailto:pulmanvictoria@gmail.com)
 [<img width="96" height="28" alt="GitHub-181717" src="https://github.com/user-attachments/assets/8f1be832-50a2-4338-ad3a-d691dc0c3841" />](https://github.com/VictoriaPulman)
+[Linkedin](https://www.linkedin.com/in/victoria-pulman/)
 
 ---
 ### 🛠 Tech Stack & Tools:
