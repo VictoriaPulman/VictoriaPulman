@@ -1,11 +1,17 @@
-## Hi there 👋
 
-# Hi! I'm an Aspiring Data Analyst 📊
-
-I am actively diving into the world of data: learning to bring order to chaos, uncover logic and hidden insights, and transform raw numbers into clear visual stories. 
-
-I enjoy optimizing routine processes — for instance, I automated the virtual environment deployment and setup process in Python for my learning projects to streamline my workflow.
-
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3> Hi! I'm an Aspiring Data Analyst 📊 </h3>
+      <p>I am actively diving into the world of data: learning to bring order to chaos, uncover logic and hidden insights, and transform raw numbers into clear visual stories.</p>
+      <p>I enjoy optimizing routine processes — for instance, I automated the virtual environment deployment and setup process in Python for my learning projects to streamline my workflow.</p>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img width="250" height="250" alt="sticker" src="https://github.com/user-attachments/assets/e3e5cf42-2db2-4acd-85e2-dca13d9eb7fd" />
+      <p><sub>👶 Throwback to my childhood </sub></p>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🛠 Tech Stack & Tools:
