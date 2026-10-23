@@ -1,12 +1,9 @@
-
 <table>
   <tr>
     <td width="60%" valign="top">
       <h3> Hi! I'm an Aspiring Data Analyst 📊 </h3>
       <p>I am actively diving into the world of data: learning to bring order to chaos, uncover logic and hidden insights, and transform raw numbers into clear visual stories.</p>
       <p>I enjoy optimizing routine processes — for instance, I automated the virtual environment deployment and setup process in Python for my learning projects to streamline my workflow.</p>
-      [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulmanvictoria@gmail.com)
-      [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictoriaPulman)
     </td>
     <td width="40%" align="center" valign="top">
       <img width="250" height="250" alt="sticker" src="https://github.com/user-attachments/assets/e3e5cf42-2db2-4acd-85e2-dca13d9eb7fd" />
@@ -14,8 +11,11 @@
     </td>
   </tr>
 </table>
----
 
+[<img width="87" height="28" alt="Gmail-D14836" src="https://github.com/user-attachments/assets/8934a264-0168-4660-857b-97a13ea0f03f" />](mailto:pulmanvictoria@gmail.com)
+[<img width="96" height="28" alt="GitHub-181717" src="https://github.com/user-attachments/assets/8f1be832-50a2-4338-ad3a-d691dc0c3841" />](https://github.com/VictoriaPulman)
+
+---
 ### 🛠 Tech Stack & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
