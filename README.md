@@ -9,6 +9,9 @@ I enjoy optimizing routine processes — for instance, I automated the virtual e
 ---
 
 ### 🛠 Tech Stack & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 * **Python:** Basic programming, solid understanding of algorithmic logic and data structures.
 * **Data Libraries:** `Pandas` (data manipulation, filtering, grouping), `Matplotlib` & `Seaborn` (data visualization and chart customization).
 * **SQL:** Writing basic queries, table relations (`JOIN`), nested queries, and understanding the principles of window functions.
