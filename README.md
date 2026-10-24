@@ -17,7 +17,7 @@
 [Linkedin](https://www.linkedin.com/in/victoria-pulman/)
 
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/ru/profile/15822876)
-
+[![вконтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/vote_from_space)
 
 ---
 ### 🛠 Tech Stack & Tools:
