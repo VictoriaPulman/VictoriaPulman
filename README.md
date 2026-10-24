@@ -16,6 +16,8 @@
 [<img width="96" height="28" alt="GitHub-181717" src="https://github.com/user-attachments/assets/8f1be832-50a2-4338-ad3a-d691dc0c3841" />](https://github.com/VictoriaPulman)
 [Linkedin](https://www.linkedin.com/in/victoria-pulman/)
 
+[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/ru/profile/15822876)
+
 
 ---
 ### 🛠 Tech Stack & Tools:
@@ -38,6 +40,10 @@
 * ⚡ **Fun fact:** My chief and most experienced QA engineer is a 12-year-old Yorkshire Terrier named Bonita. She quality-checks every single line of code!
 
 ---
+
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 ### 📫 How to reach me:
 * **Email:** [pulmanvictoria@gmail.com]
