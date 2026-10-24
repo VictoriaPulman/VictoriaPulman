@@ -16,6 +16,7 @@
 [<img width="96" height="28" alt="GitHub-181717" src="https://github.com/user-attachments/assets/8f1be832-50a2-4338-ad3a-d691dc0c3841" />](https://github.com/VictoriaPulman)
 [Linkedin](https://www.linkedin.com/in/victoria-pulman/)
 
+
 ---
 ### 🛠 Tech Stack & Tools:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://victoriapulman.github.io/PYzadachki/)
@@ -41,6 +42,10 @@
 ### 📫 How to reach me:
 * **Email:** [pulmanvictoria@gmail.com]
 * **LinkedIn:** [Victoria Pulman](https://www.linkedin.com/in/victoria-pulman-507840236/)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brevisvita)
+
+
 
 <details>
   <summary>▶ Нажмите, чтобы посмотреть перевод</summary>
