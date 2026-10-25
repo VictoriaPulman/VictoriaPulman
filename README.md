@@ -37,7 +37,9 @@
 * 🔭 **Currently working on:** Finishing up my Python for Data Analysis studies and actively practicing SQL database management.
 * 🌱 **Currently learning:** Product and BI analytics methodologies, data visualization fundamentals, and discovering business insights.
 * 👯 **Looking to collaborate on:** Team learning projects or early-stage startups with no strict commercial experience requirements, where I can help structure data and build clear reports.
-* 💬 **Ask me about:** How to automate routine environment setup using the terminal and simple scripts before starting a project. Check out my [cheat-sheet repository](https://github.com/VictoriaPulman/my-python-template).
+💬 **Ask me about:**
+* How to automate routine environment setup using the terminal and simple scripts (check out my [terminal setup cheat-sheet](https://github.com/VictoriaPulman/my-python-template))
+* How to bypass Excel/Power Query UI limitations with custom M-code workarounds (check out my [Power Query hack cheat-sheet](https://github.com/VictoriaPulman/power-query-manual-input-hack))
 * ⚡ **Fun fact:** My chief and most experienced QA engineer is a 12-year-old Yorkshire Terrier named Bonita. She quality-checks every single line of code!
 
 ---
@@ -91,7 +93,9 @@
 * 🔭 **Сейчас я:** Завершаю изучение Python для анализа данных и активно закрепляю на практике работу с базами данных (SQL).
 * 🌱 **Изучаю:** Методологии продуктовой и BI-аналитики, основы визуализации данных и поиск бизнес-инсайтов.
 * 👯 **Хочу поучаствовать в:** Командных учебных проектах или стартапах без жестких требований к коммерческому опыту, где нужно структурировать данные и создавать понятные отчеты.
-* 💬 **Спроси меня про:** То, как с помощью терминала и простых скриптов автоматизировать рутинную подготовку рабочего окружения перед стартом проекта. Подробнее в моем [репозитории-шпаргалке](https://github.com/VictoriaPulman/my-python-template).
+* 💬 **Спросите меня о том:**
+* Как автоматизировать рутинную настройку окружения через терминал и простые скрипты (загляните в мою [шпаргалку по настройке терминала](https://github.com/VictoriaPulman/my-python-template))
+* Как обходить ограничения интерфейса Excel/Power Query с помощью решений на языке M (загляните в мой [лайфхак по Power Query](https://github.com/VictoriaPulman/power-query-manual-input-hack))
 * ⚡ **Fun fact:** Мой главный и самый опытный QA-инженер — 12-летний йорк по имени Бонита. Контролирует качество каждой строчки кода!
 
 ---
