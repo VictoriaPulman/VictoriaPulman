@@ -15,6 +15,8 @@
 [<img width="87" height="28" alt="Gmail-D14836" src="https://github.com/user-attachments/assets/8934a264-0168-4660-857b-97a13ea0f03f" />](mailto:pulmanvictoria@gmail.com)
 [<img width="96" height="28" alt="GitHub-181717" src="https://github.com/user-attachments/assets/8f1be832-50a2-4338-ad3a-d691dc0c3841" />](https://github.com/VictoriaPulman)
 
+![](https://komarev.com/ghpvc/?username=VictoriaPulman&color=green)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/victoria-pulman/)
 
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/ru/profile/15822876)
